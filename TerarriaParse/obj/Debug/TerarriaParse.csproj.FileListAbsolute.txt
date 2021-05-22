@@ -1,0 +1,12 @@
+C:\Users\КалабаевА\source\repos\TerarriaParse\TerarriaParse\bin\Debug\TerarriaParse.exe.config
+C:\Users\КалабаевА\source\repos\TerarriaParse\TerarriaParse\bin\Debug\TerarriaParse.exe
+C:\Users\КалабаевА\source\repos\TerarriaParse\TerarriaParse\bin\Debug\TerarriaParse.pdb
+C:\Users\КалабаевА\source\repos\TerarriaParse\TerarriaParse\bin\Debug\HtmlAgilityPack.dll
+C:\Users\КалабаевА\source\repos\TerarriaParse\TerarriaParse\bin\Debug\Newtonsoft.Json.dll
+C:\Users\КалабаевА\source\repos\TerarriaParse\TerarriaParse\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\КалабаевА\source\repos\TerarriaParse\TerarriaParse\bin\Debug\HtmlAgilityPack.xml
+C:\Users\КалабаевА\source\repos\TerarriaParse\TerarriaParse\bin\Debug\Newtonsoft.Json.xml
+C:\Users\КалабаевА\source\repos\TerarriaParse\TerarriaParse\obj\Debug\TerarriaParse.csprojAssemblyReference.cache
+C:\Users\КалабаевА\source\repos\TerarriaParse\TerarriaParse\obj\Debug\TerarriaParse.csproj.CopyComplete
+C:\Users\КалабаевА\source\repos\TerarriaParse\TerarriaParse\obj\Debug\TerarriaParse.exe
+C:\Users\КалабаевА\source\repos\TerarriaParse\TerarriaParse\obj\Debug\TerarriaParse.pdb
